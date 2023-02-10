@@ -1,0 +1,16 @@
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\bin\Debug\net5.0\2-1-Variables.exe
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\bin\Debug\net5.0\2-1-Variables.deps.json
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\bin\Debug\net5.0\2-1-Variables.runtimeconfig.json
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\bin\Debug\net5.0\2-1-Variables.runtimeconfig.dev.json
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\bin\Debug\net5.0\2-1-Variables.dll
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\bin\Debug\net5.0\2-1-Variables.pdb
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\2-1-Variables.csproj.AssemblyReference.cache
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\2-1-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\2-1-Variables.AssemblyInfoInputs.cache
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\2-1-Variables.AssemblyInfo.cs
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\2-1-Variables.csproj.CoreCompileInputs.cache
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\2-1-Variables.dll
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\refint\2-1-Variables.dll
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\2-1-Variables.pdb
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\2-1-Variables.genruntimeconfig.cache
+C:\Users\acopt\Desktop\C# PROJECTS\Course-materials\Step-2-Variables-identifiers-escape-characters\2-1-Variables\obj\Debug\net5.0\ref\2-1-Variables.dll
